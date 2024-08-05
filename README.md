@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhidh0
-- 👀 I’m interested in games, AI, tecnology and learning
+- 👀 I’m interested in games, AI, technology and learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
